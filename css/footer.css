@@ -1,0 +1,1995 @@
+/* Footer */
+
+.gaming-curacao img {
+    width: 105px;
+}
+
+.gaming-curacao {
+    position: relative;
+    display: block;
+    margin: 4px auto;
+    text-align: center;
+    max-width: 130px;
+    background: #cdf0ff;
+    padding: 3px 10px;
+    border-radius: 3px;
+}
+
+.top-games .tg-title {
+    font-size: 3em;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    margin: 30px auto;
+    text-shadow: 1px 1px 2px rgb(0 0 0 / 40%);
+}
+
+.bank-transfer-large-vn,
+.bitcoin-large,
+.internet-banking-large-vn,
+.momopay-large,
+.neteller-large,
+.online-debit-large-vn,
+.paywell-large,
+.qrcode-large,
+.skrill-large,
+.viettel-pay-large,
+.zalo-pay-large,
+.duitnow-large,
+.instant-banking-large,
+.bank-transfer-large,
+.cryptopay-large,
+.astropay-large,
+.ecopayz-large {
+    display: inline-block;
+    background: url('https://firebasestorage.googleapis.com/v0/b/hl-storage.appspot.com/o/hl%2Fimages%2Fpayment-icons-large-v5.png?alt=media&token=a071cd5a-23be-406b-9151-14f3654b1d92') no-repeat;
+    overflow: hidden;
+    text-indent: -9999px;
+    text-align: left;
+}
+
+.bank-transfer-large-vn {
+    width: 307px;
+    height: 48px;
+    background-position: 0 0;
+}
+
+.bitcoin-large {
+    width: 175px;
+    height: 40px;
+    background-position: 0 -48px;
+}
+
+.internet-banking-large-vn {
+    width: 221px;
+    height: 36px;
+    background-position: 0 -88px;
+}
+
+.momopay-large {
+    width: 48px;
+    height: 48px;
+    background-position: 0 -124px;
+}
+
+.neteller-large {
+    width: 224px;
+    height: 38px;
+    background-position: 0 -172px;
+}
+
+.online-debit-large-vn {
+    width: 258px;
+    height: 36px;
+    background-position: 0 -210px;
+}
+
+.paywell-large {
+    width: 177px;
+    height: 46px;
+    background-position: 0 -246px;
+}
+
+.qrcode-large {
+    width: 199px;
+    height: 42px;
+    background-position: 0 -292px;
+}
+
+.skrill-large {
+    width: 116px;
+    height: 40px;
+    background-position: 0 -334px;
+}
+
+.viettel-pay-large {
+    width: 96px;
+    height: 48px;
+    background-position: 0 -374px;
+}
+
+.zalo-pay-large {
+    width: 147px;
+    height: 42px;
+    background-position: 0 -422px;
+}
+
+.duitnow-large {
+    width: 50px;
+    height: 45px;
+    background-position: 0 -464px;
+}
+
+.instant-banking-large {
+    width: 154px;
+    height: 40px;
+    background-position: 0 -509px;
+}
+
+.bank-transfer-large {
+    width: 168px;
+    height: 40px;
+    background-position: 0 -549px;
+}
+
+.cryptopay-large {
+    width: 272px;
+    height: 34px;
+    background-position: 0 -589px;
+}
+
+.astropay-large {
+    width: 152px;
+    height: 40px;
+    background-position: 0 -623px;
+}
+
+.ecopayz-large {
+    width: 163px;
+    height: 40px;
+    background-position: 0 -663px;
+}
+
+.ag,
+.ag-mono,
+.alipay,
+.alipay-mono,
+.astropay,
+.astropay-mono,
+.bank-transfer-jp,
+.bank-transfer-mono-jp,
+.booming,
+.booming-mono,
+.boongo,
+.boongo-mono,
+.cq9,
+.cq9-mono,
+.cryptopay,
+.cryptopay-mono,
+.eg,
+.eg-mono,
+.ezugi,
+.ezugi-mono,
+.gpi,
+.gpi-mono,
+.genesis-gaming,
+.genesis-gaming-mono,
+.golddeluxe,
+.golddeluxe-mono,
+.goldenhero,
+.goldenhero-mono,
+.habanero,
+.habanero-mono,
+.isoftbet,
+.isoftbet-mono,
+.mg,
+.mg-mono,
+.netent,
+.netent-mono,
+.pg,
+.pg-mono,
+.pgsoft,
+.pgsoft-mono,
+.paywell,
+.paywell-mono,
+.playson,
+.playson-mono,
+.png,
+.png-mono,
+.promptpay,
+.promptpay-mono,
+.quickspin,
+.quickspin-mono,
+.rtg,
+.rtg-mono,
+.rakki,
+.rakki-mono,
+.redtiger,
+.redtiger-mono,
+.sa-gaming,
+.sa-gaming-mono,
+.sg,
+.sg-mono,
+.tpg,
+.tpg-mono,
+.ttg,
+.ttg-mono,
+.thunderkick,
+.thunderkick-mono,
+.unionpay,
+.unionpay-app,
+.unionpay-app-mono,
+.unionpay-mono,
+.vivo,
+.vivo-mono,
+.wechatpay,
+.wechatpay-mono,
+.zalopay,
+.zalopay-mono,
+.american-express,
+.american-express-big,
+.american-express-mono,
+.astropay-big,
+.astropay-card,
+.astropay-card-mono,
+.bank-transfer,
+.bank-transfer-mono-vn,
+.bank-transfer-vn,
+.bank-transfer-mono,
+.bet,
+.betsoft,
+.betsoft-mono,
+.bitcoin,
+.bitcoin-big,
+.bitcoin-cash,
+.bitcoin-cash-big,
+.bitcoin-cash-mono,
+.bitcoin-mono,
+.btc,
+.btc-mono,
+.credit-card,
+.credit-card-mono,
+.curacao-license,
+.discover-big,
+.discover-network,
+.discover-network-mono,
+.ecopayz,
+.ecopayz-big,
+.ecopayz-mono,
+.email-icon,
+.ethereum,
+.ethereum-big,
+.ethereum-mono,
+.facebook-icon,
+.fast-cash,
+.fast-cash-mono,
+.gamblingtherapy,
+.gamcare,
+.gamomat,
+.gamomat-mono,
+.hogaming,
+.hogaming-mono,
+.img-18,
+.instagram-icon,
+.instant-banking,
+.instant-banking-mono,
+.instant-banking-mono-vn,
+.instant-banking-vn,
+.iwallet,
+.iwallet-mono,
+.jcb,
+.jcb-big,
+.jcb-mono,
+.lc-icon,
+.line-icon,
+.litecoin,
+.litecoin-big,
+.litecoin-mono,
+.lock,
+.mastercard,
+.mastercard-big,
+.mastercard-mono,
+.momo,
+.momo-mono,
+.much-better,
+.much-better-big,
+.much-better-mono,
+.n2live,
+.n2live-mono,
+.neteller,
+.neteller-big,
+.neteller-mono,
+.online-bank-transfer-in,
+.online-bank-transfer-in-big,
+.online-bank-transfer-mono-in,
+.online-debit,
+.online-debit-mono,
+.online-debit-mono-vn,
+.online-debit-vn,
+.oryx,
+.oryx-mono,
+.pp,
+.pp-mono,
+.qr-code,
+.qr-code-mono,
+.red-tiger-white,
+.ripple,
+.ripple-big,
+.ripple-mono,
+.rupee-payments-big,
+.rupee-payments,
+.rupee-payments-mono,
+.skrill,
+.skrill-big,
+.skrill-mono,
+.tom-horn,
+.tom-horn-mono,
+.twitter-icon,
+.venus-point,
+.venus-point-mono,
+.viettelpay,
+.viettelpay-mono,
+.whatsapp,
+.ygg,
+.ygg-mono,
+.youtube-icon,
+.zalo-icon,
+.internet-banking-vn-v2,
+.duitnow-mono,
+.duitnow,
+.eg-v2-mono,
+.eg-v2,
+.playgon,
+.playgon-mono,
+.tg,
+.true-money,
+.true-money-mono,
+.upi-mono,
+.upi,
+.x-icon,
+.tom-horn,
+.tom-horn-mono,
+.true-money-wallet,
+.true-money-wallet-mono,
+.online-banking-v2,
+.online-banking-v2-mono {
+    display: inline-block;
+    background: url('https://firebasestorage.googleapis.com/v0/b/hl-storage.appspot.com/o/hl%2Fimages%2Fhl-icons-v17.png?alt=media&token=01726a68-85ca-445b-b0d4-9a4b8748266f') no-repeat;
+    overflow: hidden;
+    text-indent: -9999px;
+    text-align: left;
+}
+
+.ag {
+    width: 62px;
+    height: 21px;
+    background-position: 0 0;
+}
+
+.ag-mono {
+    width: 62px;
+    height: 21px;
+    background-position: 0 -21px;
+}
+
+.alipay {
+    width: 81px;
+    height: 21px;
+    background-position: 0 -42px;
+}
+
+.alipay-mono {
+    width: 81px;
+    height: 21px;
+    background-position: 0 -63px;
+}
+
+.astropay {
+    width: 75px;
+    height: 20px;
+    background-position: 0 -84px;
+}
+
+.astropay-mono {
+    width: 75px;
+    height: 20px;
+    background-position: 0 -104px;
+}
+
+.bank-transfer-jp {
+    width: 55px;
+    height: 21px;
+    background-position: 0 -124px;
+}
+
+.bank-transfer-mono-jp {
+    width: 55px;
+    height: 21px;
+    background-position: 0 -145px;
+}
+
+.booming {
+    width: 165px;
+    height: 14px;
+    background-position: 0 -166px;
+}
+
+.booming-mono {
+    width: 165px;
+    height: 14px;
+    background-position: 0 -180px;
+}
+
+.boongo {
+    width: 87px;
+    height: 21px;
+    background-position: 0 -194px;
+}
+
+.boongo-mono {
+    width: 87px;
+    height: 21px;
+    background-position: 0 -215px;
+}
+
+.cq9 {
+    width: 59px;
+    height: 21px;
+    background-position: 0 -236px;
+}
+
+.cq9-mono {
+    width: 59px;
+    height: 21px;
+    background-position: 0 -257px;
+}
+
+.cryptopay {
+    width: 118px;
+    height: 15px;
+    background-position: 0 -278px;
+}
+
+.cryptopay-mono {
+    width: 118px;
+    height: 15px;
+    background-position: 0 -293px;
+}
+
+.eg {
+    width: 165px;
+    height: 21px;
+    background-position: 0 -308px;
+}
+
+.eg-mono {
+    width: 165px;
+    height: 21px;
+    background-position: 0 -329px;
+}
+
+.ezugi {
+    width: 45px;
+    height: 20px;
+    background-position: 0 -350px;
+}
+
+.ezugi-mono {
+    width: 45px;
+    height: 20px;
+    background-position: 0 -370px;
+}
+
+.gpi {
+    width: 105px;
+    height: 21px;
+    background-position: 0 -390px;
+}
+
+.gpi-mono {
+    width: 105px;
+    height: 21px;
+    background-position: 0 -411px;
+}
+
+.genesis-gaming {
+    width: 102px;
+    height: 20px;
+    background-position: 0 -432px;
+}
+
+.genesis-gaming-mono {
+    width: 102px;
+    height: 20px;
+    background-position: 0 -452px;
+}
+
+.golddeluxe {
+    width: 60px;
+    height: 21px;
+    background-position: 0 -472px;
+}
+
+.golddeluxe-mono {
+    width: 60px;
+    height: 21px;
+    background-position: 0 -493px;
+}
+
+.goldenhero {
+    width: 29px;
+    height: 19px;
+    background-position: 0 -514px;
+}
+
+.goldenhero-mono {
+    width: 29px;
+    height: 19px;
+    background-position: 0 -533px;
+}
+
+.habanero {
+    width: 101px;
+    height: 21px;
+    background-position: 0 -552px;
+}
+
+.habanero-mono {
+    width: 101px;
+    height: 21px;
+    background-position: 0 -573px;
+}
+
+.isoftbet {
+    width: 80px;
+    height: 17px;
+    background-position: 0 -594px;
+}
+
+.isoftbet-mono {
+    width: 80px;
+    height: 17px;
+    background-position: 0 -611px;
+}
+
+.mg {
+    width: 85px;
+    height: 21px;
+    background-position: 0 -628px;
+}
+
+.mg-mono {
+    width: 85px;
+    height: 21px;
+    background-position: 0 -649px;
+}
+
+.netent {
+    width: 59px;
+    height: 21px;
+    background-position: 0 -670px;
+}
+
+.netent-mono {
+    width: 59px;
+    height: 21px;
+    background-position: 0 -691px;
+}
+
+.pg {
+    width: 81px;
+    height: 19px;
+    background-position: 0 -712px;
+}
+
+.pg-mono {
+    width: 81px;
+    height: 19px;
+    background-position: 0 -731px;
+}
+
+.pgsoft {
+    width: 46px;
+    height: 21px;
+    background-position: 0 -750px;
+}
+
+.pgsoft-mono {
+    width: 46px;
+    height: 21px;
+    background-position: 0 -771px;
+}
+
+.paywell {
+    width: 83px;
+    height: 21px;
+    background-position: 0 -792px;
+}
+
+.paywell-mono {
+    width: 83px;
+    height: 21px;
+    background-position: 0 -813px;
+}
+
+.playson {
+    width: 102px;
+    height: 21px;
+    background-position: 0 -834px;
+}
+
+.playson-mono {
+    width: 102px;
+    height: 21px;
+    background-position: 0 -855px;
+}
+
+.png {
+    width: 72px;
+    height: 19px;
+    background-position: 0 -876px;
+}
+
+.png-mono {
+    width: 72px;
+    height: 19px;
+    background-position: 0 -895px;
+}
+
+.promptpay {
+    width: 63px;
+    height: 21px;
+    background-position: 0 -914px;
+}
+
+.promptpay-mono {
+    width: 63px;
+    height: 21px;
+    background-position: 0 -935px;
+}
+
+.quickspin {
+    width: 87px;
+    height: 21px;
+    background-position: 0 -956px;
+}
+
+.quickspin-mono {
+    width: 87px;
+    height: 21px;
+    background-position: 0 -977px;
+}
+
+.rtg {
+    width: 101px;
+    height: 21px;
+    background-position: 0 -998px;
+}
+
+.rtg-mono {
+    width: 101px;
+    height: 21px;
+    background-position: 0 -1019px;
+}
+
+.rakki {
+    width: 43px;
+    height: 21px;
+    background-position: 0 -1040px;
+}
+
+.rakki-mono {
+    width: 43px;
+    height: 21px;
+    background-position: 0 -1061px;
+}
+
+.redtiger {
+    width: 98px;
+    height: 21px;
+    background-position: 0 -1082px;
+}
+
+.redtiger-mono {
+    width: 98px;
+    height: 21px;
+    background-position: 0 -1103px;
+}
+
+.sa-gaming {
+    width: 59px;
+    height: 21px;
+    background-position: 0 -1124px;
+}
+
+.sa-gaming-mono {
+    width: 59px;
+    height: 21px;
+    background-position: 0 -1145px;
+}
+
+.sg {
+    width: 47px;
+    height: 21px;
+    background-position: 0 -1166px;
+}
+
+.sg-mono {
+    width: 47px;
+    height: 21px;
+    background-position: 0 -1187px;
+}
+
+.tpg {
+    width: 64px;
+    height: 21px;
+    background-position: 0 -1208px;
+}
+
+.tpg-mono {
+    width: 64px;
+    height: 21px;
+    background-position: 0 -1229px;
+}
+
+.ttg {
+    width: 90px;
+    height: 21px;
+    background-position: 0 -1250px;
+}
+
+.ttg-mono {
+    width: 90px;
+    height: 21px;
+    background-position: 0 -1271px;
+}
+
+.thunderkick {
+    width: 20px;
+    height: 19px;
+    background-position: 0 -1292px;
+}
+
+.thunderkick-mono {
+    width: 20px;
+    height: 19px;
+    background-position: 0 -1311px;
+}
+
+.unionpay {
+    width: 34px;
+    height: 21px;
+    background-position: 0 -1330px;
+}
+
+.unionpay-app {
+    width: 21px;
+    height: 21px;
+    background-position: 0 -1351px;
+}
+
+.unionpay-app-mono {
+    width: 21px;
+    height: 21px;
+    background-position: 0 -1372px;
+}
+
+.unionpay-mono {
+    width: 34px;
+    height: 21px;
+    background-position: 0 -1393px;
+}
+
+.vivo {
+    width: 159px;
+    height: 21px;
+    background-position: 0 -1414px;
+}
+
+.vivo-mono {
+    width: 159px;
+    height: 21px;
+    background-position: 0 -1435px;
+}
+
+.wechatpay {
+    width: 84px;
+    height: 21px;
+    background-position: 0 -1456px;
+}
+
+.wechatpay-mono {
+    width: 84px;
+    height: 21px;
+    background-position: 0 -1477px;
+}
+
+.zalopay {
+    width: 72px;
+    height: 21px;
+    background-position: 0 -1498px;
+}
+
+.zalopay-mono {
+    width: 72px;
+    height: 21px;
+    background-position: 0 -1519px;
+}
+
+.american-express {
+    width: 77px;
+    height: 21px;
+    background-position: 0 -1540px;
+}
+
+.american-express-big {
+    width: 121px;
+    height: 33px;
+    background-position: 0 -1561px;
+}
+
+.american-express-mono {
+    width: 77px;
+    height: 21px;
+    background-position: 0 -1594px;
+}
+
+.astropay-big {
+    width: 110px;
+    height: 41px;
+    background-position: 0 -1615px;
+}
+
+.astropay-card {
+    width: 57px;
+    height: 21px;
+    background-position: 0 -1656px;
+}
+
+.astropay-card-mono {
+    width: 57px;
+    height: 21px;
+    background-position: 0 -1677px;
+}
+
+.bank-transfer {
+    width: 95px;
+    height: 22px;
+    background-position: 0 -1698px;
+}
+
+.bank-transfer-mono-vn {
+    width: 141px;
+    height: 22px;
+    background-position: 0 -1720px;
+}
+
+.bank-transfer-vn {
+    width: 141px;
+    height: 22px;
+    background-position: 0 -1742px;
+}
+
+.bank-transfer-mono {
+    width: 95px;
+    height: 22px;
+    background-position: 0 -1764px;
+}
+
+.bet {
+    width: 80px;
+    height: 17px;
+    background-position: 0 -1786px;
+}
+
+.betsoft {
+    width: 48px;
+    height: 21px;
+    background-position: 0 -1803px;
+}
+
+.betsoft-mono {
+    width: 48px;
+    height: 21px;
+    background-position: 0 -1824px;
+}
+
+.bitcoin {
+    width: 80px;
+    height: 21px;
+    background-position: 0 -1845px;
+}
+
+.bitcoin-big {
+    width: 157px;
+    height: 33px;
+    background-position: 0 -1866px;
+}
+
+.bitcoin-cash {
+    width: 34px;
+    height: 21px;
+    background-position: 0 -1899px;
+}
+
+.bitcoin-cash-big {
+    width: 174px;
+    height: 22px;
+    background-position: 0 -1920px;
+}
+
+.bitcoin-cash-mono {
+    width: 34px;
+    height: 21px;
+    background-position: 0 -1942px;
+}
+
+.bitcoin-mono {
+    width: 80px;
+    height: 21px;
+    background-position: 0 -1963px;
+}
+
+.btc {
+    width: 21px;
+    height: 21px;
+    background-position: 0 -1984px;
+}
+
+.btc-mono {
+    width: 21px;
+    height: 21px;
+    background-position: 0 -2005px;
+}
+
+.credit-card {
+    width: 124px;
+    height: 21px;
+    background-position: 0 -2026px;
+}
+
+.credit-card-mono {
+    width: 124px;
+    height: 21px;
+    background-position: 0 -2047px;
+}
+
+.curacao-license {
+    width: 26px;
+    height: 30px;
+    background-position: 0 -2068px;
+}
+
+.discover-big {
+    width: 130px;
+    height: 33px;
+    background-position: 0 -2098px;
+}
+
+.discover-network {
+    width: 83px;
+    height: 21px;
+    background-position: 0 -2131px;
+}
+
+.discover-network-mono {
+    width: 83px;
+    height: 21px;
+    background-position: 0 -2152px;
+}
+
+.ecopayz {
+    width: 74px;
+    height: 21px;
+    background-position: 0 -2173px;
+}
+
+.ecopayz-big {
+    width: 144px;
+    height: 35px;
+    background-position: 0 -2194px;
+}
+
+.ecopayz-mono {
+    width: 74px;
+    height: 21px;
+    background-position: 0 -2229px;
+}
+
+.email-icon {
+    width: 32px;
+    height: 30px;
+    background-position: 0 -2250px;
+}
+
+.ethereum {
+    width: 13px;
+    height: 21px;
+    background-position: 0 -2280px;
+}
+
+.ethereum-big {
+    width: 158px;
+    height: 40px;
+    background-position: 0 -2301px;
+}
+
+.ethereum-mono {
+    width: 13px;
+    height: 21px;
+    background-position: 0 -2341px;
+}
+
+.facebook-icon {
+    width: 32px;
+    height: 30px;
+    background-position: 0 -2362px;
+}
+
+.fast-cash {
+    width: 113px;
+    height: 21px;
+    background-position: 0 -2392px;
+}
+
+.fast-cash-mono {
+    width: 113px;
+    height: 21px;
+    background-position: 0 -2413px;
+}
+
+.gamblingtherapy {
+    width: 21px;
+    height: 21px;
+    background-position: 0 -2434px;
+}
+
+.gamcare {
+    width: 19px;
+    height: 21px;
+    background-position: 0 -2455px;
+}
+
+.gamomat {
+    width: 100px;
+    height: 17px;
+    background-position: 0 -2476px;
+}
+
+.gamomat-mono {
+    width: 100px;
+    height: 17px;
+    background-position: 0 -2493px;
+}
+
+.hogaming {
+    width: 69px;
+    height: 20px;
+    background-position: 0 -2510px;
+}
+
+.hogaming-mono {
+    width: 69px;
+    height: 20px;
+    background-position: 0 -2530px;
+}
+
+.img-18 {
+    width: 21px;
+    height: 21px;
+    background-position: 0 -2550px;
+}
+
+.instagram-icon {
+    width: 32px;
+    height: 30px;
+    background-position: 0 -2571px;
+}
+
+.instant-banking {
+    width: 78px;
+    height: 21px;
+    background-position: 0 -2601px;
+}
+
+.instant-banking-mono {
+    width: 78px;
+    height: 21px;
+    background-position: 0 -2622px;
+}
+
+.instant-banking-mono-vn {
+    width: 85px;
+    height: 20px;
+    background-position: 0 -2643px;
+}
+
+.instant-banking-vn {
+    width: 87px;
+    height: 21px;
+    background-position: 0 -2663px;
+}
+
+.iwallet {
+    width: 59px;
+    height: 18px;
+    background-position: 0 -2684px;
+}
+
+.iwallet-mono {
+    width: 59px;
+    height: 21px;
+    background-position: 0 -2702px;
+}
+
+.jcb {
+    width: 28px;
+    height: 21px;
+    background-position: 0 -2723px;
+}
+
+.jcb-big {
+    width: 46px;
+    height: 35px;
+    background-position: 0 -2744px;
+}
+
+.jcb-mono {
+    width: 28px;
+    height: 21px;
+    background-position: 0 -2779px;
+}
+
+.lc-icon {
+    width: 33px;
+    height: 30px;
+    background-position: 0 -2800px;
+}
+
+.line-icon {
+    width: 32px;
+    height: 30px;
+    background-position: 0 -2830px;
+}
+
+.litecoin {
+    width: 23px;
+    height: 22px;
+    background-position: 0 -2860px;
+}
+
+.litecoin-big {
+    width: 140px;
+    height: 39px;
+    background-position: 0 -2882px;
+}
+
+.litecoin-mono {
+    width: 23px;
+    height: 22px;
+    background-position: 0 -2921px;
+}
+
+.lock {
+    width: 20px;
+    height: 23px;
+    background-position: 0 -2943px;
+}
+
+.mastercard {
+    width: 35px;
+    height: 21px;
+    background-position: 0 -2966px;
+}
+
+.mastercard-big {
+    width: 167px;
+    height: 30px;
+    background-position: 0 -2987px;
+}
+
+.mastercard-mono {
+    width: 36px;
+    height: 21px;
+    background-position: 0 -3017px;
+}
+
+.momo {
+    width: 25px;
+    height: 25px;
+    background-position: 0 -3038px;
+}
+
+.momo-mono {
+    width: 25px;
+    height: 25px;
+    background-position: 0 -3063px;
+}
+
+.much-better {
+    width: 98px;
+    height: 21px;
+    background-position: 0 -3088px;
+}
+
+.much-better-big {
+    width: 183px;
+    height: 39px;
+    background-position: 0 -3109px;
+}
+
+.much-better-mono {
+    width: 98px;
+    height: 21px;
+    background-position: 0 -3148px;
+}
+
+.n2live {
+    width: 74px;
+    height: 21px;
+    background-position: 0 -3169px;
+}
+
+.n2live-mono {
+    width: 74px;
+    height: 21px;
+    background-position: 0 -3190px;
+}
+
+.neteller {
+    width: 100px;
+    height: 16px;
+    background-position: 0 -3211px;
+}
+
+.neteller-big {
+    width: 176px;
+    height: 28px;
+    background-position: 0 -3227px;
+}
+
+.neteller-mono {
+    width: 100px;
+    height: 16px;
+    background-position: 0 -3255px;
+}
+
+.online-bank-transfer-in {
+    width: 94px;
+    height: 21px;
+    background-position: 0 -3271px;
+}
+
+.online-bank-transfer-in-big {
+    width: 174px;
+    height: 39px;
+    background-position: 0 -3292px;
+}
+
+.online-bank-transfer-mono-in {
+    width: 94px;
+    height: 21px;
+    background-position: 0 -3331px;
+}
+
+.online-debit {
+    width: 115px;
+    height: 21px;
+    background-position: 0 -3352px;
+}
+
+.online-debit-mono {
+    width: 115px;
+    height: 21px;
+    background-position: 0 -3373px;
+}
+
+.online-debit-mono-vn {
+    width: 151px;
+    height: 21px;
+    background-position: 0 -3394px;
+}
+
+.online-debit-vn {
+    width: 151px;
+    height: 21px;
+    background-position: 0 -3415px;
+}
+
+.oryx {
+    width: 122px;
+    height: 21px;
+    background-position: 0 -3436px;
+}
+
+.oryx-mono {
+    width: 122px;
+    height: 21px;
+    background-position: 0 -3457px;
+}
+
+.pp {
+    width: 58px;
+    height: 25px;
+    background-position: 0 -3478px;
+}
+
+.pp-mono {
+    width: 58px;
+    height: 25px;
+    background-position: 0 -3503px;
+}
+
+.qr-code {
+    width: 105px;
+    height: 21px;
+    background-position: 0 -3528px;
+}
+
+.qr-code-mono {
+    width: 105px;
+    height: 21px;
+    background-position: 0 -3549px;
+}
+
+.red-tiger-white {
+    width: 98px;
+    height: 21px;
+    background-position: 0 -3570px;
+}
+
+.ripple {
+    width: 19px;
+    height: 21px;
+    background-position: 0 -3591px;
+}
+
+.ripple-big {
+    width: 116px;
+    height: 36px;
+    background-position: 0 -3612px;
+}
+
+.ripple-mono {
+    width: 19px;
+    height: 21px;
+    background-position: 0 -3648px;
+}
+
+.rupee-payments-big {
+    width: 131px;
+    height: 39px;
+    background-position: 0 -3669px;
+}
+
+.rupee-payments {
+    width: 70px;
+    height: 21px;
+    background-position: 0 -3708px;
+}
+
+.rupee-payments-mono {
+    width: 70px;
+    height: 21px;
+    background-position: 0 -3729px;
+}
+
+.skrill {
+    width: 63px;
+    height: 21px;
+    background-position: 0 -3750px;
+}
+
+.skrill-big {
+    width: 87px;
+    height: 30px;
+    background-position: 0 -3771px;
+}
+
+.skrill-mono {
+    width: 63px;
+    height: 21px;
+    background-position: 0 -3801px;
+}
+
+.tom-horn {
+    width: 67px;
+    height: 21px;
+    background-position: 0 -3822px;
+}
+
+.tom-horn-mono {
+    width: 67px;
+    height: 21px;
+    background-position: 0 -3843px;
+}
+
+.twitter-icon {
+    width: 32px;
+    height: 30px;
+    background-position: 0 -3864px;
+}
+
+.venus-point {
+    width: 88px;
+    height: 21px;
+    background-position: 0 -3894px;
+}
+
+.venus-point-mono {
+    width: 88px;
+    height: 21px;
+    background-position: 0 -3915px;
+}
+
+.viettelpay {
+    width: 43px;
+    height: 21px;
+    background-position: 0 -3936px;
+}
+
+.viettelpay-mono {
+    width: 43px;
+    height: 21px;
+    background-position: 0 -3957px;
+}
+
+.whatsapp {
+    width: 32px;
+    height: 30px;
+    background-position: 0 -3978px;
+}
+
+.ygg {
+    width: 88px;
+    height: 21px;
+    background-position: 0 -4008px;
+}
+
+.ygg-mono {
+    width: 88px;
+    height: 21px;
+    background-position: 0 -4029px;
+}
+
+.youtube-icon {
+    width: 32px;
+    height: 30px;
+    background-position: 0 -4050px;
+}
+
+.zalo-icon {
+    width: 32px;
+    height: 30px;
+    background-position: 0 -4080px;
+}
+
+.internet-banking-vn-v2 {
+    width: 121px;
+    height: 20px;
+    background-position: 0 -4110px;
+}
+
+.duitnow-mono {
+    width: 28px;
+    height: 25px;
+    background-position: 0 -4155px;
+}
+
+.duitnow {
+    width: 28px;
+    height: 25px;
+    background-position: 0 -4130px;
+}
+
+.playgon {
+    width: 73px;
+    height: 23px;
+    background-position: 0 -4180px;
+}
+
+.playgon-mono {
+    width: 73px;
+    height: 23px;
+    background-position: 0 -4203px;
+}
+
+.tg {
+    width: 32px;
+    height: 30px;
+    background-position: 0 -4226px;
+}
+
+.eg-v2 {
+    width: 104px;
+    height: 19px;
+    background-position: 0 -4256px;
+}
+
+.eg-v2-mono {
+    width: 104px;
+    height: 19px;
+    background-position: 0 -4275px;
+}
+
+.true-money {
+    width: 106px;
+    height: 21px;
+    background-position: 0 -4294px;
+}
+
+.true-money-mono {
+    width: 106px;
+    height: 21px;
+    background-position: 0 -4315px;
+}
+
+.upi {
+    width: 58px;
+    height: 21px;
+    background-position: 0 -4336px;
+}
+
+.upi-mono {
+    width: 59px;
+    height: 21px;
+    background-position: 0 -4357px;
+}
+
+.x-icon {
+    width: 32px;
+    height: 30px;
+    background-position: 0 -4378px;
+}
+
+.online-banking-v2 {
+    width: 73px;
+    height: 20px;
+    background-position: 0 -4408px;
+}
+
+.online-banking-v2-mono {
+    width: 73px;
+    height: 20px;
+    background-position: 0 -4428px;
+}
+
+.tom-horn {
+    width: 86px;
+    height: 19px;
+    background-position: 0 -4448px;
+}
+
+.tom-horn-mono {
+    width: 66px;
+    height: 20px;
+    background-position: 0 -4467px;
+}
+
+.true-money-wallet {
+    width: 90px;
+    height: 18px;
+    background-position: 0 -4486px;
+}
+
+.true-money-wallet-mono {
+    width: 90px;
+    height: 18px;
+    background-position: 0 -4504px;
+}
+
+.pp,
+.png,
+.betsoft,
+.ygg,
+.thunderkick,
+.eg,
+.ezugi,
+.hogaming,
+.pp,
+.ag,
+.tom-horn,
+.redtiger,
+.gamomat,
+.gpi,
+.isoftbet,
+.netent,
+.genesis-gaming {
+    margin: 0 15px 15px 0;
+}
+
+.footer .container {
+    max-width: 980px;
+    margin: 0 auto;
+}
+
+.top-games {
+    background: #0099dc;
+    padding: 30px 0;
+}
+
+.justify {
+    justify-content: center;
+}
+
+.space-evenly {
+    justify-content: space-evenly;
+}
+
+.providers-logo,
+.payment-methods {
+    display: flex;
+    justify-content: left;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.payment-methods div,
+.providers-logo div {
+    margin: 0 20px 20px 0;
+}
+
+.contacts {
+    display: flex;
+    justify-content: center;
+}
+
+.social-acct {
+    max-height: 30px;
+}
+
+.contact-cols {
+    margin-right: 50px;
+}
+
+.contact-cols:last-child {
+    margin-right: 0;
+}
+
+.top-payment-methods {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-grow: 1;
+}
+
+.payment-method-logo {
+    background: #0169b2;
+    padding: 7px 10px;
+    border-radius: 7px;
+    flex-grow: 1;
+    flex-basis: 200px;
+    text-align: center;
+    margin: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.curacao-license {
+    margin-left: 10px;
+    margin-top: 7px;
+}
+
+.lock {
+    margin-left: 15px;
+    min-width: 20px;
+}
+
+.footer {
+    padding: 25px 0 0;
+    text-align: left;
+    /* background:#1d2a99;
+	border-top: 4px solid #3a4bd5; */
+    background: #0069b2;
+    border-top: 4px solid #2E84C0;
+}
+
+.footer p {
+    color: #fff;
+    font-size: 14px;
+}
+
+.footer .col-md-9 {
+    flex: 0 0 79%;
+}
+
+.footer .row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+/* .footer .container {
+	padding-left:0;
+	padding-right:0;
+} */
+
+.copyright {
+    border: 1px solid #0079cd;
+    padding: 5px 0;
+    display: flex;
+    align-items: center;
+    margin: 25px 0 30px;
+}
+
+.copyright-text {
+    border-right: 1px solid #0079cd;
+    border-left: 1px solid #0079cd;
+    width: 72%;
+    padding: 0 20px;
+    text-align: center;
+    display: flex;
+    text-align: center;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+.copyright p {
+    color: #fff;
+    display: inline;
+}
+
+.copyright-text p {
+    color: #81d6fa;
+    font-size: 12px;
+    margin: 0;
+}
+
+.footer-right {
+    width: 12%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.footer-left {
+    width: 16%;
+    padding: 0 5px;
+}
+
+.footer-right div {
+    margin: 3px 5px;
+}
+
+.footer-left p {
+    float: left;
+    margin-left: 16px;
+    margin-top: 14px;
+}
+
+.additional-footer {
+    padding: 2em 15px;
+}
+
+.additional-footer p {
+    color: #76C3E4;
+    font-size: 12px;
+    text-align: center;
+    opacity: 0.4;
+}
+
+.additional-footer p:last-child {
+    margin-bottom: 0 !important;
+}
+
+.social-media {
+    background: #015794;
+    padding: 20px 0;
+}
+
+.social-container,
+.email-acct {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.email-acct p,
+.social-container p {
+    margin: 0;
+    color: #fff;
+}
+
+.email-icon,
+.line-icon,
+.zalo-icon,
+.tg {
+    margin-right: 5px;
+}
+
+p.phone-acct,
+.social-media p a {
+    color: #fff;
+}
+
+.social-media {
+    margin-top: 0;
+}
+
+/* TOP Games */
+
+.top-games .col-md-4 {
+    text-align: center;
+}
+
+.top-games .row {
+    margin-bottom: 30px;
+    justify-content: center;
+}
+
+img.top-games-title {
+    margin: 30px auto;
+    display: block;
+    max-height: 48px;
+    max-width: 100%;
+}
+
+section.top-games {
+    background: #0099dc;
+    padding: 30px 0;
+    margin-top: 50px;
+}
+
+.top-games-icons {
+    margin: 10px auto;
+}
+
+.payments {
+    text-align: center;
+}
+
+img.payments-title {
+    margin: 50px auto 45px;
+    max-width: 100%;
+}
+
+.payments-section {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.payments-section div {
+    margin: 10px 20px;
+}
+
+.payments-section img {
+    /* border: 1px solid #81d6fa; */
+    padding: 0px;
+    margin: 0px 40px 15px;
+}
+
+footer .footer-icons {
+    padding-top: 0px !important;
+}
+
+@media (max-width: 991px) {
+    .footer-left {
+        padding: 0 5px;
+    }
+    .footer-left p {
+        display: block;
+        text-align: center;
+        float: none;
+        margin-left: 0;
+        margin-bottom: 5px;
+        margin-top: 0;
+    }
+    .curacao-license {
+        margin-left: 0;
+        margin-top: 5px;
+    }
+    .payment-methods {
+        margin-bottom: 15px;
+    }
+}
+
+@media (max-width: 860px) {
+    .footer-left p {
+        float: unset;
+    }
+    .footer-left {
+        text-align: center;
+    }
+}
+
+@media (max-width: 767px) {
+    .hl-footer-logos {
+        margin: 10px auto;
+    }
+    .lock {
+        display: block;
+        margin: 0 auto;
+    }
+    .footer-left p {
+        margin: 0;
+        float: unset;
+        display: block;
+    }
+    .col-lg-6.col-md-6.mx-auto {
+        text-align: center;
+    }
+    .container {
+        /*padding:0 2em;*/
+    }
+    .payment-methods {
+        justify-content: center;
+    }
+    .providers-logo {
+        justify-content: center;
+    }
+    .footer .col-sm-12 {
+        max-width: 100%;
+    }
+    .footer-title {
+        margin-bottom: 15px;
+        text-align: center;
+    }
+    .footer .col-md-9 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        text-align: center;
+    }
+    .payment-methods div,
+    .providers-logo div {
+        margin: 0 8px 15px;
+    }
+    .footer-left,
+    .copyright-text,
+    .footer-right {
+        display: block;
+        text-align: center;
+        width: 100%;
+    }
+    .copyright-text,
+    .footer-right {
+        margin-top: 20px;
+    }
+    .additional-footer {
+        padding: 2em 1em;
+    }
+    .copyright-text {
+        border: none;
+    }
+    .curacao-license {
+        margin-left: 0;
+    }
+    .contacts {
+        flex-direction: column;
+    }
+    .contact-cols {
+        margin: 0 0 20px;
+    }
+    .contact-cols:last-child {
+        margin-bottom: 0;
+    }
+    .copyright {
+        flex-direction: column;
+        padding-top: 10px;
+    }
+}
+
+@media (max-width: 530px) {
+    .footer .col-md-9 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        text-align: center;
+    }
+    .footer .col-md-3 {
+        max-width: 100%;
+        text-align: center;
+        margin-top: 20px;
+    }
+    .ecopayz,
+    .astropay {
+        display: inline-block;
+    }
+}
+
+.intl-tel-input {
+    display: block !important;
+}
+
+/* End of Footer */
